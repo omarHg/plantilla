@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.7.2)
+  - SideMenu (4.0.0)
+  - SwiftyJSON (4.1.0)
+  - UnderLineTextField (2.0.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - SideMenu
+  - SwiftyJSON
+  - UnderLineTextField (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - SideMenu
+    - SwiftyJSON
+    - UnderLineTextField
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  SideMenu: 70ee5657df63ec3382660ec4ef470bf1cf5db07d
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  UnderLineTextField: e3c9640e3a3fe529a617ee217f5d8386b8e8440c
+
+PODFILE CHECKSUM: 17045503daad865ea0e53ed5b7588bbdee749103
+
+COCOAPODS: 1.5.0

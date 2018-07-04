@@ -1,0 +1,6 @@
+module Pods_plantilla [system] {
+  umbrella header "Pods-plantilla-umbrella.h"
+
+  export *
+  module * { export * }
+}
